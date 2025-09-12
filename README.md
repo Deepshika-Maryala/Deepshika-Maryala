@@ -1,10 +1,10 @@
 
-![Copy of Colorful Minimalist Personal LinkedIn Banner (2)](https://github.com/user-attachments/assets/ce126b46-2916-4e0b-9568-84d09d2d09dd)
+![https://docs.google.com/forms/d/e/1FAIpQLSdsfOyGjSk2sAQxdfZRK_C-476Nl_h6ZQ7FgzuIjguuw5cu3A/viewform?usp=header]
 
 <h1 align="center">Hi 👋, I'm Deepshika Maryala</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently working as Master Trainer
 
 - 💬 Ask me about **SQL, Python, Java**
 
