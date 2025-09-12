@@ -7,7 +7,7 @@
 My work focuses on **designing impactful training sessions** and **developing curricula** aligned with NEP 2020 and CBSE guidelines.  
 </h4>
 <h4>Skills</h4>
-- **Programming Languages:** Python, Java, MySQL
+- _Programming Languages:_ Python, Java, MySQL
 - **Instructional Design & Analytics:** Curriculum Development, Instructional Design principles, Assessment
  and Evaluation, Performance Analytics, Data Analytics
 - **Project & Team Management:** Project management, Scrum management, Team lead
