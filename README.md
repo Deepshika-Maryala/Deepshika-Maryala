@@ -7,11 +7,11 @@
 My work focuses on **designing impactful training sessions** and **developing curricula** aligned with NEP 2020 and CBSE guidelines.  
 </h4>
 <h4>Skills</h4>
-- Programming Languages: Python, Java, MySQL  
-- Instructional Design & Analytics: Curriculum Development, Instructional Design principles, Assessment and Evaluation, Performance Analytics, Data Analytics  
-- Project & Team Management: Project management, Scrum management, Team lead  
-- Tools: Microsoft 360, Google workspace apps, Canv  
+- Programming Languages: Python, Java, MySQL<br>
+- Instructional Design & Analytics: Curriculum Development, Instructional Design principles, Assessment and Evaluation, Performance Analytics, Data Analytics<br>
+- Project & Team Management: Project management, Scrum management, Team lead<br>
+- Tools: Microsoft 360, Google workspace apps, Canva<br>
 
 <h4> Contact Me </h4>
-- Linkedin: Deepshika Maryala  
-- Email ID:deepshikamaryala11599@gmail.com  
+- Linkedin: Deepshika Maryala<br>
+- Email ID:deepshikamaryala11599@gmail.com<br>
