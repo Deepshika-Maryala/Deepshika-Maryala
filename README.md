@@ -2,14 +2,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Deepshika Maryala</h1>
-<h3 align="center"> Technical Trainer | Master Trainer | Curriculum Designer</h3>
-<h4></h4>I am passionate about training trainers and empowering educators with the right tools and strategies to bring Robotics, Programming, and STEM education into classrooms. My work focuses on designing impactful training sessions and developing curricula aligned with NEP 2020 and CBSE guidelines.  
+<h3 align="center"> Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
+<h4></h4>Aspiring Data Analyst with skills in Python, SQL, Pandas, NumPy, Excel, and Power BI. Currently strengthening my knowledge of statistics, data cleaning, and data visualization. Interested in analyzing data, identifying trends, and turning data into meaningful insights to support business decisions.
 </h4>
 <h4>Skills</h4>
-- Programming Languages: Python, Java, MySQL<br>
-- Instructional Design & Analytics: Curriculum Development, Instructional Design principles, Assessment and Evaluation, Performance Analytics, Data Analytics<br>
-- Project & Team Management: Project management, Scrum management, Team lead<br>
-- Tools: Microsoft 360, Google workspace apps, Canva<br> 
+- Technical Skills: Python, SQL, Java<br>
+- Data Analytics: Data Cleaning, Data Manipulation, Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization<br>
+- Libraries: Pandas, NumPy<br>
+- Data Visualization Tools: Power BI, Excel<br>
+- Tools & Platforms: Jupyter Notebook, VS Code, GitHub, Microsoft 365, Google Workspace <br> 
 <h4> Contact Me </h4>
 - Linkedin: www.linkedin.com/in/deepshikamaryala<br>
 - Email ID: deepshikamaryala11599@gmail.com<br>
